@@ -1,0 +1,233 @@
+#div1{
+    border-left-color:#83BD75;
+    border-bottom-color:chartreuse;
+    border-right-color: chartreuse;
+    border-top-color:#83BD75;
+    border-style:solid;
+    border-width:3px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L9k4-qYThQYbRXJ9XE6H0ph6kofdJUiw1r7NseJ3rOgMGT_01DwsvKjihZJzFf_5sHk&usqp=CAU");
+    width :auto;
+    height: auto;
+}
+
+#div2{
+    border-style: solid;
+    border-width:3px;
+    border-left-color:chartreuse;
+    border-bottom-color:#83BD75;
+    border-right-color:#83BD75;
+    border-top-color:chartreuse;
+    width: auto;
+    height: auto;
+}
+
+
+
+#div3{
+    border:solid red;
+    border-width:8px;
+    width:30%;
+    line-height:30px;
+    background-color: black;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    border-radius: 40px;
+    color:white;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left:20px;
+    position: relative;
+}
+
+#div4{
+    border:solid red;
+    border-width: 8px;
+    background-color:black;
+    width:30%;
+    line-height:10px;
+    font-size:30px;
+    font-style: italic;
+    border-radius: 40px;
+    color:white;
+    text-align:center;
+    margin-bottom:100px;
+    margin-right: 10px;
+    padding-left:80px;
+    padding-right:30px;
+    padding-top:10px;
+    top:15px;
+    right:150px;
+    position: relative;
+}
+
+#div5{
+    border:solid red;
+    border-width: 8px;
+    width:30%;
+    line-height:30px;
+    background-color: black;
+    font-size: 30px;
+    font-style: italic;
+    border-radius: 40px;
+    color: white;
+    text-align: center;
+    display: block;
+    margin-right:10px;
+}
+
+.main1{
+    display:flex;
+    margin-top: 50px;
+}
+
+
+#div6{
+    border:solid gray;
+    border-width: 8px;
+    width:400px;
+    height:250px;
+    border-radius: 50%;
+    background-color:#13cabbf7;
+    text-decoration:underline;
+    font-size:20px;
+    font-style: italic;
+    text-align: center;
+    margin: auto;
+    margin-left: 80px;
+    margin-right: 200px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+
+
+#div7{
+    border: dashed;
+    border-width: 8px;
+    border-color: crimson;
+    text-align: center;
+    width: 450px;
+}
+
+h1{
+    color:#EC7063;
+}
+
+label{
+    color: #EC7063;
+}
+
+::placeholder{
+    text-align: center;
+}
+
+.main2{
+    display:flex;
+    margin-top: 60px;
+    margin-bottom: 40px;
+
+}
+
+#div8{
+    border:solid;
+    border-color: red;
+    border-width: 8px;
+    border-radius:30px;
+    width:600px;
+    height:50px;
+    background-color: black;
+    font-style: italic;
+    color: white;
+    font-size:40px;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+
+#div9{
+    border: solid;
+    border-color:green;
+    border-width: 3px;
+    border-radius: 30px;
+    width : 300px;
+    height: 300px;
+    background-color: aqua;
+    color:blueviolet;
+    text-align: center;
+}
+
+#div10{
+    border: solid;
+    border-color:green;
+    border-width: 3px;
+    border-radius: 30px;
+    width : 300px;
+    height: 300px;
+    background-color: aqua;
+    color:blueviolet;
+    text-align: center;   
+}
+
+#div11{
+    border: solid;
+    border-color:green;
+    border-width: 3px;
+    border-radius: 30px;
+    width : 300px;
+    height: 300px;
+    background-color: aqua;
+    color:blueviolet;
+    text-align: center;   
+}
+
+#div12{
+    border: solid;
+    border-color:green;
+    border-width: 3px;
+    border-radius: 30px;
+    width : 300px;
+    height: 300px;
+    background-color: aqua;
+    color:blueviolet;
+    text-align: center;   
+}
+
+#div13{
+    border: solid;
+    border-color:green;
+    border-width: 3px;
+    border-radius: 30px;
+    width : 300px;
+    height: 300px;
+    background-color: aqua;
+    color:blueviolet;
+    text-align: center; 
+   
+}
+
+#div14{
+    border: solid;
+    border-color:green;
+    border-width: 3px;
+    border-radius: 30px;
+    width : 300px;
+    height: 300px;
+    background-color: aqua;
+    color:blueviolet;
+    text-align: center;
+}
+
+.flex1{
+    display:flex;
+    justify-content:space-around;
+    margin-top: 50px;
+}
+
+.flex2{
+    display:flex;
+    justify-content:space-around;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
